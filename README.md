@@ -12,3 +12,11 @@ In this project, the outcome is a classification where we judge whether the empl
 
 
 To checkout my notebook, please click [here](https://github.com/amruta-gawande/hr-employee-attrition/blob/main/HR_Analytics.ipynb)
+
+1. this is my first point
+2. this is my second point
+
+| Col1 | Col2 |
+|--|--|
+| Apple | 150 |
+| banana| 150 |
